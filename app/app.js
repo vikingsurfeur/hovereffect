@@ -1,7 +1,7 @@
 new hoverEffect ({
     parent: document.querySelector('.container'),
-    intensity1: 1,
-    intensity2: 2,
+    intensity1: 0.5,
+    intensity2: 0.5,
     speedIn: 1,
     speedOut: 1,
     image1: './img/image_1.jpg',
